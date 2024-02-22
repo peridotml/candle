@@ -37,6 +37,7 @@ pub mod repvgg;
 pub mod resnet;
 pub mod rwkv_v5;
 pub mod segment_anything;
+pub mod splade;
 pub mod stable_diffusion;
 pub mod stable_lm;
 pub mod t5;
